@@ -1,0 +1,12 @@
+
+PAULO - 142 - 19.159 segundos
+BETA - 65 - 22.077 segundos
+ARTHUR - 70 - 18.818 segundos
+Arthur - 35 - 133.106 segundos
+a - 55 - 42.349 segundos
+Alexandre - 40 - 148.377 segundos
+Beta - 50 - 46.406 segundos
+alexandre - 250 - 73.133 segundos
+Joao - 0 - 60.769 segundos
+Hugo - 70 - 29.673 segundos
+Joao - 310 - 84.499 segundos
